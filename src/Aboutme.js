@@ -23,7 +23,7 @@ const Script = () => {
         </div>
         <div class="about">
         <div class="pic">
-            <img src={myphoto}></img>
+            <img src={myphoto} alt="myimg"></img>
         </div>
         <div>
             <div class="details">
