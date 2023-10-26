@@ -1,10 +1,7 @@
 import Typewriter from "./typewriter";
-import { FaBeer } from "react-icons/fa";
-import style from "/Users/dhruvhasmukhbhaichaudhary/Documents/100xdevsPractice/myporfolio/src/style.css";
 import myphoto from "/Users/dhruvhasmukhbhaichaudhary/Documents/100xdevsPractice/myporfolio/src/myphoto.jpg";
 import InputFileUpload from "./github";
 import * as React from 'react';
-import { styled } from '@mui/material/styles';
 import Button from '@mui/material/Button';
 import { BiLogoGmail } from 'react-icons/bi';
 import {BsLinkedin} from 'react-icons/bs'
