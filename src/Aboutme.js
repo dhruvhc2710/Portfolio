@@ -1,5 +1,5 @@
 import Typewriter from "./typewriter";
-import myphoto from "/Users/dhruvhasmukhbhaichaudhary/Documents/100xdevsPractice/myporfolio/src/myphoto.jpg";
+import myphoto from "./myphoto.jpg";
 import InputFileUpload from "./github";
 import * as React from 'react';
 import Button from '@mui/material/Button';
