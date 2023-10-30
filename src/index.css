@@ -8,12 +8,18 @@
   width: 100vw;
   height: 100vh;
 }
-
+.projects{
+  text-align: center;
+}
 img {
   padding: 40px;
   border-radius: 50%;
 }
-
+.cards{
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+}
 .aboutme {
   background-color: rgb(214, 235, 247);
 }
