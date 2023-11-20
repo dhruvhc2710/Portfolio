@@ -40,7 +40,7 @@ export default function InputFileUpload() {
       <h4>
         Backend :  
       </h4>
-      NodeJS, ExpressJS, JavaScript, TypeScript<br></br>
+      NodeJS, PHP, ExpressJS, JavaScript, TypeScript<br></br>
       <h4>
         Tools :
       </h4>
