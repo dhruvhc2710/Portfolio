@@ -14,6 +14,7 @@ import portfolio from './portfolio.png';
 import todo from './todo.png'
 import farmville from './farmville.png'
 import bookland from './bookland.png'
+import imgsmart from './imgsmart.png'
 
 //import {resume} from "/Users/dhruvhasmukhbhaichaudhary/Documents/100xdevsPractice/myporfolio/src/Dhruv_hc_Resume.pdf"
 
@@ -105,6 +106,24 @@ const Script = () => {
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Tech Stack Used : Python, HTML, CSS, PHP, tkinter
+          </Typography>
+        </CardContent>
+      </CardActionArea>
+    </Card>
+    <Card sx={{ maxWidth: 345 }} onClick={() => openInNewTab("https://github.com/dhruvhc2710/CoursePaymentContract")}>
+      <CardActionArea>
+        <CardMedia
+          component="img"
+          height="140"
+          image={imgsmart}
+          alt="green iguana"
+        />
+        <CardContent>
+          <Typography gutterBottom variant="h5" component="div">
+            Course Payment Contract
+          </Typography>
+          <Typography variant="body2" color="text.secondary">
+            Tech Stack Used : solidity
           </Typography>
         </CardContent>
       </CardActionArea>
